@@ -1,0 +1,40 @@
+#container{
+    border: solid 1px;
+    margin: auto;
+    width: 50%;
+    padding: 14px 12px;
+
+
+}
+ .input{
+    border: solid 1px;
+    width: 50%;
+
+
+ }
+
+ button{
+    border-radius: 5px;
+    background: pink;
+    display: inline-block;
+    border: solid 1px;
+    padding: 20px;
+    width: 50%;
+    text-align: center;
+    font-size: larger;
+    height: 3px;
+    color:pink
+
+ }
+ 
+
+ table th, td {
+    width: 50%;
+    height: 4px;
+    border: 1px solid;
+    margin: auto;
+    text-align: center;
+    padding: 12px;
+  }
+    
+ 
